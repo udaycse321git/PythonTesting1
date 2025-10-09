@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950281e0-a4f3-4edc-94d9-290f641e16e9" name="Changes" comment="hello file">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001_Python_Hello1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Jdentifier_Variablesk/Lab001_Keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Jdentifier_Variablesk/Lab002_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Jdentifier_Variablesk/Lab003_Identifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001_Python_Hello.py.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001_Python_Hello.py" afterDir="false" />
-    </list>
+    <list default="true" id="950281e0-a4f3-4edc-94d9-290f641e16e9" name="Changes" comment="File name modified" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -60,7 +58,7 @@
     "Python.demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "PyATB6xLearning",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Nikul Kumar/PycharmProjects/PyATB6xLearning/src/ex_01_Python_Basics",
@@ -224,7 +222,7 @@
       <workItem from="1759838430789" duration="802000" />
       <workItem from="1759904487592" duration="645000" />
       <workItem from="1759973805094" duration="1821000" />
-      <workItem from="1760001304801" duration="3694000" />
+      <workItem from="1760001304801" duration="4338000" />
     </task>
     <task id="LOCAL-00001" summary="hello file">
       <option name="closed" value="true" />
@@ -234,7 +232,31 @@
       <option name="project" value="LOCAL" />
       <updated>1759837355666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New files">
+      <option name="closed" value="true" />
+      <created>1760006673507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760006673507</updated>
+    </task>
+    <task id="LOCAL-00003" summary="File name modified">
+      <option name="closed" value="true" />
+      <created>1760006811722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760006811722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="File name modified">
+      <option name="closed" value="true" />
+      <created>1760007298794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760007298794</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +275,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello file" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello file" />
+    <MESSAGE value="New files" />
+    <MESSAGE value="File name modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="File name modified" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$demo.coverage" NAME="demo Coverage Results" MODIFIED="1759904497852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
