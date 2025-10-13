@@ -1,0 +1,1 @@
+print("nikul", "uday","rohit")
